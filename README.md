@@ -1,6 +1,10 @@
 # Zomato-Data-Analysis-and-Business-Insights
 Exploratory Data Analysis of the Zomato restaurant dataset using Python. This project analyzes restaurant ratings, pricing, locations, and cuisines to uncover customer behavior and market trends. Data cleaning and visualizations are used to generate meaningful, data-driven business insights.
 
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/07341e92-69f0-410a-b8c1-284de2add0a4" />
+
+
 # Introduction
 The food delivery industry has grown rapidly with the use of digital platforms such as Zomato. This project aims to analyze restaurant data to understand customer preferences, pricing patterns, ratings, and location-based trends using data analytics techniques.
 
